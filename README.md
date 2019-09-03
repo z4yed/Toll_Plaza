@@ -28,6 +28,6 @@ Features of this Program :
 
 9. For pickup , we set the toll amount 700 taka.
 
-10.It will show number of total entered vehicles and total collected money.
+10. It will show number of total entered vehicles and total collected money.
 
 11. Assistant of this toll plaza must have to input the information of the vehicles.
